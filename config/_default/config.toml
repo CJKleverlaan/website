@@ -1,8 +1,12 @@
-baseURL = "https://CJKleverlaan.github.io/OrangeF/"
+baseURL = "https://CJKleverlaan.github.io/website/"
 languageCode = "en-us"
 title = "Orange Health"
 theme = "hugo-arcana"
 copyright = "© Untitled. All rights reserved"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 defaultContentLanguage = "en"
 [languages]
