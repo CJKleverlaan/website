@@ -1,0 +1,20 @@
+[[main]]
+    name = "ORANGEFORCE"
+    weight = 30
+    pageRef = 'ORANGEFORCE-general'
+[[main]]
+    parent = "ORANGEFORCE"
+    name = "WP1"
+    weight = 31
+    pageRef = 'WP1'
+[[main]]
+    parent = "ORANGEFORCE"
+    name = "WP2"
+    weight = 32
+    pageRef = 'WP2'
+[[main]]
+    parent = "ORANGEFORCE"
+    name = "WP3"
+    weight = 33
+    pageRef = 'WP3'
+

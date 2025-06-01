@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newsletter on Arcana for Hugo</title>
+    <link>http://localhost:1313/tags/newsletter/</link>
+    <description>Recent content in Newsletter on Arcana for Hugo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Untitled. All rights reserved</copyright>
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newsletter Orange Health, december 2024</title>
+      <link>http://localhost:1313/posts/second/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second/</guid>
+      <description>&lt;p&gt;On December 9th, the annual ORANGEHealth Researchers’ Day took place, which attracted great interest from consortium members representing all seven knowledge institutes. After a brief update on the current state of affairs within the ORANGEHealth consortium by the new program leaders Frank Walboomers and Katarina Jerkovic, the remainder of the program was expertly moderated by the chair of the day, Egija Zaura.&lt;/p&gt;&#xA;&lt;p&gt;The theme of the day was “matchmaking”. Knowledge institutions were given the opportunity to present new research ideas, focusing on the rationale (problem articulation), potential research questions/objectives, research methodology and design, possible partners, and funding opportunities.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
