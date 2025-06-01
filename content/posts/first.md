@@ -1,6 +1,6 @@
 ---
 title: Join ORANGEHealth PPP and realize your project!
-image: images/pic01.jpg
+image: images/contact.png
 date: "2025-02-05T00:00:00"
 tags:
   - ORANGEHealth PPP
