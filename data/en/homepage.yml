@@ -4,26 +4,23 @@ banner:
 #  contents: "On a mission to shape the future"
 items:
   - type: heading
-    heading: On a mission to shape the future
+#    heading: On a mission to shape the future
     contents: Oral healthcare professionals in the Netherlands join forces in ORANGEHealth in a mission to shape the future of health and healthcare
+
   - type: highlights
     items_per_row: 2
     items:
     - title: Our vision
       icon: fa-paper-plane
       content: >
-        The seven Dutch educational institutions for oral care and dentistry have joined forces in ORANGEHealth. In addition to education they conduct research and provide care. These seven partners are the initiators of a multi-year program in which they, together with public and private parties, are shaping the future of (oral) care and (oral) health, with special attention to prevention, the right care in the right place, interprofessional cooperation and attention to vulnerable groups. The consortium gives substance to the increasingly resounding call for more collaboration between oral health care and general health care.
-    - title: Also Important
+        The seven Dutch educational institutions for oral care and dentistry have joined forces in ORANGEHealth. In addition to education they conduct research and provide care. These seven partners are the initiators of a multi-year program in which they, together with public and private parties, are shaping the future of oral care and oral health, with special attention to prevention, the right care in the right place, interprofessional cooperation and attention to vulnerable groups. The consortium gives substance to the increasingly resounding call for more collaboration between oral health care and general health care.
+    - title: Our Story
       icon: fa-paper-plane
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        The seven core partners, ACTA, Radboudumc, UMCG, Hanzehogeschool Groningen, HAN University of Applied Sciences, Hogeschool Inholland, HU University of Applied Sciences Utrecht, are the founders of ORANGEHealth. Currently, this consortium is involved in two innovation programs, ORANGEFORCE and ORANGEHealth PPP from Health ~ Holland. Health ~ Holland stimulates innovative research by financing public-private collaboration in the Life Sciences & Health sector. The PPP Innovation Subsidy aims to stimulate public private cooperation for research that creates economic and societal impact. 
   - type: posts
     heading: Recent Posts
     content_type: posts
     max: 2
-  - type: cta2
-    contents: On a mission to shape the future
-#    button:
-#      contents: Contact
-#      url: "/contact"
+  - type: cta
+    contents: ORANGEHealth - On a mission to shape the future -

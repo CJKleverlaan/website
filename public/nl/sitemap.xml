@@ -185,16 +185,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/website/nl/tags/content/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/website/tags/content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/website/nl/tags/content/"
-                />
   </url><url>
     <loc>http://localhost:1313/website/nl/tags/examples/</loc>
   </url><url>
@@ -211,16 +201,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/website/nl/tags/orangeforce/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/website/tags/orangeforce/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/website/nl/tags/orangeforce/"
-                />
   </url><url>
     <loc>http://localhost:1313/website/nl/wp1/</loc>
     <xhtml:link

@@ -1,19 +1,8 @@
 ---
-title: "ORANGEFORCE WP1"
-#description: "All content, all the time."
-menu: WP1
-#weight: 90
-#image: images/banner.jpg
-#image_alt: "Hello!"
-tags: ["ORANGEFORCE", "content"]
+title: "Innovative approach for oral care for older persons"
+
 ---
 
-ORANGEFORCE is the Kickstart project of the ORANGEHealth consortium that has been running for two years now. ORANGEFORCE (ORal ANd GEneral For OldeR People’s CarE) aims to ensure that elderly individuals are well-connected to the (oral) care system and remain so. We achieve this by developing guidelines that are not only useful in dental and oral care practices but also in professional care settings (care institutions, general practitioners). Besides initiating physical collaboration and consultation between oral care professionals and primary care, efforts are being made to make (patient) information accessible, allowing data to be used for research purposes. Finally, research on saliva and databases increasingly reveals the relationship between overall health and oral health, and work is being done on supportive diagnostic tools for oral care professionals and primary care to recognize underlying diseases as early as possible through the mouth.
+This research line is concerned with the research into oral care for older persons in oral care practice, vulnerable elderly people who need oral care at home and the development of the practice guideline for interprofessional cooperation on oral care for elderly people living at home.
 
-This project consists of three research lines, summarized below.
-
-Research Line 1: ‘Innovative (oral) healthcare approaches for older people’
-
-Research Line 2: ‘Unlocking and Linking oral health data’
-
-Research line 3: ‘Sensing the oral cavity’ (“extra- and intra-oral sensing”)
+Our research has shown that the awareness and implementation of the guidelines and the KNMT Practice Guide for oral care for older persons still needs to be greatly improved in oral care practices. In the coming months, we will make a plan on how we are going to do that. All ideas are welcome.The UMCG research into oral health among elderly people with cognitive challenges who visit a memory clinic is going well. There are already many participants and the results are promising. The first findings from this study will be published during the consortium meeting in June 2024. ACTA’s study on oral care for older persons in the home setting will start soon. Among other things, (cost) effectiveness, impact on quality of life and the reasons why older people do or cannot receive oral care at home will be examined. Researchers from Amsterdam, Groningen, Nijmegen and Utrecht are developing a practice guideline for interprofessional oral care for vulnerable older people living at home. With input from literature research, semi-structured interviews with healthcare providers and focus groups with general practitioners (and POH), pharmacists, oral care providers, home care and GGD employees, a draft of this guideline for interprofessional oral care has been drawn up. Through various cycles of implementation, testing and adaptation in practice, the concept will be adjusted and further developed into an effective guideline for vulnerable older people living at home. After that, the guideline will be used to support interprofessional collaboration. This design research will take place in 5 regions in the Netherlands. The contacts with the caregivers, but also with older persons are already promising!

@@ -1,19 +1,14 @@
 ---
-title: "ORANGEFORCE WP2"
-#description: "All content, all the time."
-menu: WP2
-#weight: 90
-#image: images/banner.jpg
-#image_alt: "Hello!"
-tags: ["ORANGEFORCE", "content"]
+title: "Unlocking and connecting oral health data"
+
 ---
 
-ORANGEFORCE is the Kickstart project of the ORANGEHealth consortium that has been running for two years now. ORANGEFORCE (ORal ANd GEneral For OldeR People’s CarE) aims to ensure that elderly individuals are well-connected to the (oral) care system and remain so. We achieve this by developing guidelines that are not only useful in dental and oral care practices but also in professional care settings (care institutions, general practitioners). Besides initiating physical collaboration and consultation between oral care professionals and primary care, efforts are being made to make (patient) information accessible, allowing data to be used for research purposes. Finally, research on saliva and databases increasingly reveals the relationship between overall health and oral health, and work is being done on supportive diagnostic tools for oral care professionals and primary care to recognize underlying diseases as early as possible through the mouth.
+This line of research focuses on large-scale data on oral health. Ultimately, the goal is to build an infrastructure that supports a learning care system.
 
-This project consists of three research lines, summarized below.
+* Part 1 of the line deals with cohorts. This is where data is collected about the health of participants. Sometimes oral health is already a part of that data, or it can be added. The data is usually collected via questionnaires, i.e. reported by the participant himself. In the picture of the Netherlands you can see the cohorts that have already joined. We are currently looking at how the oral health data of these cohorts can be combined.
 
-Research Line 1: ‘Innovative (oral) healthcare approaches for older people’
+* Part 2 of the line of research focuses on the collection of oral health data from patient records of dental practices. The data that are important for the data collection have been inventoried. We are currently working with our partner Vertimart on a first new module, in which non-restoratively treated caries lesions can be recorded.
 
-Research Line 2: ‘Unlocking and Linking oral health data’
+* Part 3 focuses mainly on linking data from oral care and general practices. In two focus groups with dentists and general practitioners, we explored what the professionals actually knew about each other’s profession, and what data about shared patients they would like to see from the other. The picture shows the top 3 desired information of both groups. As becomes clear, knowing exactly WHO the other professional is already an important prerequisite.
 
-Research line 3: ‘Sensing the oral cavity’ (“extra- and intra-oral sensing”)
+Researchers from Radboudumc, Nivel and UMCG looked at the overlap in people that can be found when the pseudonymised files are superimposed. This overlap turned out to be very substantial: 10% of the total group turned out to be able to be linked. Partner Nivel is investigating the governance aspects for a possible oral care register to be set up. This oral care register should provide answers to questions about quality, including opportunities for quality improvement and effectiveness of primary oral care in the Netherlands. In addition, the reuse of routinely collected data, which is recorded in electronic health records during the oral care delivery process, can provide valuable knowledge for practice and policy.
