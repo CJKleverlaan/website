@@ -202,18 +202,6 @@
                 href="http://localhost:1313/website/tags/content/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/tags/examples/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/website/nl/tags/examples/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/website/tags/examples/"
-                />
-  </url><url>
     <loc>http://localhost:1313/website/orangeforce-general/</loc>
     <xhtml:link
                 rel="alternate"
