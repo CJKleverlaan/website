@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Duis Neque on Arcana for Hugo</title>
-    <link>http://localhost:1313/tags/duis-neque/</link>
-    <description>Recent content in Duis Neque on Arcana for Hugo</description>
+    <title>Duis Neque on Orange Health</title>
+    <link>http://localhost:1313/website/tags/duis-neque/</link>
+    <description>Recent content in Duis Neque on Orange Health</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Untitled. All rights reserved</copyright>
     <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/duis-neque/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/website/tags/duis-neque/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Newsletter Orange Health, december 2024</title>
-      <link>http://localhost:1313/posts/second/</link>
+      <link>http://localhost:1313/website/posts/second/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
+      <guid>http://localhost:1313/website/posts/second/</guid>
       <description>&lt;p&gt;On December 9th, the annual ORANGEHealth Researchers’ Day took place, which attracted great interest from consortium members representing all seven knowledge institutes. After a brief update on the current state of affairs within the ORANGEHealth consortium by the new program leaders Frank Walboomers and Katarina Jerkovic, the remainder of the program was expertly moderated by the chair of the day, Egija Zaura.&lt;/p&gt;&#xA;&lt;p&gt;The theme of the day was “matchmaking”. Knowledge institutions were given the opportunity to present new research ideas, focusing on the rationale (problem articulation), potential research questions/objectives, research methodology and design, possible partners, and funding opportunities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Sixth Thing</title>
-      <link>http://localhost:1313/posts/sixth/</link>
+      <link>http://localhost:1313/website/posts/sixth/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sixth/</guid>
+      <guid>http://localhost:1313/website/posts/sixth/</guid>
       <description>&lt;p&gt;Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet&#xA;mattis, sed a rutrum accumsan sed. Suspendisse eu.&lt;/p&gt;&#xA;&lt;p&gt;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Third Thing</title>
-      <link>http://localhost:1313/posts/third/</link>
+      <link>http://localhost:1313/website/posts/third/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/third/</guid>
+      <guid>http://localhost:1313/website/posts/third/</guid>
       <description>&lt;p&gt;Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet&#xA;mattis, sed a rutrum accumsan sed. Suspendisse eu.&lt;/p&gt;&#xA;&lt;p&gt;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.&lt;/p&gt;</description>
     </item>
   </channel>

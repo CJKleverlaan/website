@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "C:/Users/ckn470/OneDrive - Vrije Universiteit Amsterdam/Desktop/OrangeF",
+	"sourceRoot": "C:/Users/ckn470/OneDrive - Vrije Universiteit Amsterdam/Documents/OrangeForce/website",
 	"sources": [
 		"themes/hugo-arcana/assets/sass/main.scss",
 		"themes/hugo-arcana/assets/sass/libs/_vars.scss",

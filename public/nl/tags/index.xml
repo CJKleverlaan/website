@@ -1,12 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Arcana for Hugo</title>
-    <link>http://localhost:1313/nl/tags/</link>
-    <description>Recent content in Tags on Arcana for Hugo</description>
+    <title>Tags on Orange Health</title>
+    <link>http://localhost:1313/website/nl/tags/</link>
+    <description>Recent content in Tags on Orange Health</description>
     <generator>Hugo</generator>
     <language>nl</language>
     <copyright>© Untitled. All rights reserved</copyright>
-    <atom:link href="http://localhost:1313/nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/website/nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beispiel</title>
+      <link>http://localhost:1313/website/nl/tags/beispiel/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/nl/tags/beispiel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Duis Neque</title>
+      <link>http://localhost:1313/website/nl/tags/duis-neque/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/nl/tags/duis-neque/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>http://localhost:1313/website/nl/tags/lorem-ipsum/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/nl/tags/lorem-ipsum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content</title>
+      <link>http://localhost:1313/website/nl/tags/content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/nl/tags/content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Examples</title>
+      <link>http://localhost:1313/website/nl/tags/examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/nl/tags/examples/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ORANGEFORCE</title>
+      <link>http://localhost:1313/website/nl/tags/orangeforce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/nl/tags/orangeforce/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

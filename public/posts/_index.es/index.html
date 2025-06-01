@@ -1,61 +1,74 @@
 <!DOCTYPE HTML>
 <html lang="en">
-    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <head><script src="/website/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=website/livereload" data-no-instant defer></script>
 
-<title>Posts | My New Hugo Site</title>
+<title>Posts | Orange Health</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-<link rel="stylesheet" href="/style.css" />
+<link rel="stylesheet" href="/website/style.css" />
 
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1313/website/images/metaimage.jpg">
   <meta name="twitter:title" content="Posts">
-<meta property="og:url" content="http://localhost:1313/posts/_index.es/">
-  <meta property="og:site_name" content="My New Hugo Site">
+  <meta name="twitter:description" content="A business/corporate style responsive site template.">
+<meta property="og:url" content="http://localhost:1313/website/posts/_index.es/">
+  <meta property="og:site_name" content="Orange Health">
   <meta property="og:title" content="Posts">
-  <meta property="og:locale" content="en_us">
+  <meta property="og:description" content="A business/corporate style responsive site template.">
+  <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
+    <meta property="og:image" content="http://localhost:1313/website/images/metaimage.jpg">
 </head>
     <body class="is-preload">
         <div id="page-wrapper"><div id="header">
-    <div id="logo-wrapper"><h1><a href="http://localhost:1313/" id="logo">
-        Arcana <em>by HTML5 UP</em>
+    <div class="dropdown" id="multilingual">
+    <a class="dropbtn language link depth-0" href="#" title="Select language" id="languageDropdown" role="button" data-toggle="dropdown" aria-expanded="false">
+    <i class="fas fa-fw fa-globe"></i>
+    <span class="d-lg-none">en</span>
+    </a>
+    <ul id="languageContent" class="dropdown-content" aria-labelledby="languageDropdown">
+        
+        
+                
+        <li>
+            <a class="dropdown-item link depth-1 selected" href="/website/posts/_index.es/">
+                English
+            </a>
+        </li>
+                
+        <li>
+            <a class="dropdown-item link depth-1" href="/website/nl/">
+                Nederlands
+            </a>
+        </li></ul>
+</div>
+<div id="logo-wrapper"><h1><a href="http://localhost:1313/website/" id="logo">
+            <img src="/website/images/logo.png" alt="" />
+        ORANGE Health
     </a></h1></div>
 
     <nav id="nav">
         <ul>
                 <li class="">
-                    <a href="/">Home</a>
-                <li class="">
-                    <a href="/_index.es/">Inicio</a>
-                <li class="">
-                    <a href="/_index.de/">Startseite</a>
+                    <a href="/website/">Home</a>
                 <li class="current">
-                    <a href="/posts/">Posts</a>
+                    <a href="/website/posts/">Posts</a>
                 <li class="">
-                    <a href="/left-sidebar.es/">Barra Izquierda</a>
+                    <a href="/website/orangeforce-general/">ORANGEFORCE</a><ul>
+                        <li class="">
+                            <a href="/website/wp1/">WP1</a>
+                        <li class="">
+                            <a href="/website/wp2/">WP2</a>
+                        <li class="">
+                            <a href="/website/wp3/">WP3</a>
+                    </ul>
                 <li class="">
-                    <a href="/left-sidebar/">Left Sidebar</a>
+                    <a href="/website/orangehealth-ppp/">ORANGEHealth PPP</a>
                 <li class="">
-                    <a href="/left-sidebar.de/">Linke Seitenleiste</a>
+                    <a href="/website/partners/">Partners</a>
                 <li class="">
-                    <a href="/right-sidebar.es/">Barra Derecha</a>
-                <li class="">
-                    <a href="/right-sidebar.de/">Rechte Seitenleiste</a>
-                <li class="">
-                    <a href="/right-sidebar/">Right Sidebar</a>
-                <li class="">
-                    <a href="/two-sidebar.es/">Dos Barras</a>
-                <li class="">
-                    <a href="/two-sidebar/">Two Sidebar</a>
-                <li class="">
-                    <a href="/two-sidebar.de/">Zwei Seitenleisten</a>
-                <li class="">
-                    <a href="/no-sidebar.de/">Keine Seitenleiste</a>
-                <li class="">
-                    <a href="/no-sidebar/">No Sidebar</a>
-                <li class="">
-                    <a href="/no-sidebar.es/">Sin Barra</a>
+                    <a href="/website/contact/">Contact</a>
         </ul>
     </nav>
 </div>
@@ -87,6 +100,17 @@
             </section><div id="footer">
     <div class="container">
         <div class="row">
+                <section class="col-6 col-6-narrower col-12-mobilep">
+                    <h3>Links to Stuff</h3>
+                    <ul class="links"><li><a href="#">Mattis et quis rutrum</a><li><a href="#">Suspendisse amet varius</a>
+                    </ul>
+                </section>
+                <section class="col-6 col-6-narrower col-12-mobilep">
+                    <h3>More Links to Stuff</h3>
+                    <ul class="links"><li><a href="#">Duis neque nisi dapibus</a><li><a href="#">Sed et dapibus quis</a>
+                    </ul>
+                </section>
+            
         </div>
     </div>
 
@@ -96,16 +120,18 @@
     <div class="copyright">
         <ul class="menu">
             
+                <li>© Untitled. All rights reserved
+            
                 <li>Design: <a href="https://html5up.net">HTML5 UP</a>
                 <li><a href="https://github.com/half-duplex/hugo-arcana">Theme</a>
         </ul>
     </div>
 </div>
-</div><script src="/js/jquery.min.js"></script>
-<script src="/js/jquery.dropotron.min.js"></script>
-<script src="/js/browser.min.js"></script>
-<script src="/js/breakpoints.min.js"></script>
-<script src="/js/util.js"></script>
-<script src="/js/main.js"></script>
+</div><script src="/website/js/jquery.min.js"></script>
+<script src="/website/js/jquery.dropotron.min.js"></script>
+<script src="/website/js/browser.min.js"></script>
+<script src="/website/js/breakpoints.min.js"></script>
+<script src="/website/js/util.js"></script>
+<script src="/website/js/main.js"></script>
 </body>
 </html>

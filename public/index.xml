@@ -1,110 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Arcana for Hugo</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Arcana for Hugo</description>
+    <title>Home on Orange Health</title>
+    <link>http://localhost:1313/website/</link>
+    <description>Recent content in Home on Orange Health</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Untitled. All rights reserved</copyright>
     <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Left Sidebar</title>
-      <link>http://localhost:1313/left-sidebar/</link>
+      <title>ORANGEHealth PPP</title>
+      <link>http://localhost:1313/website/orangehealth-ppp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/left-sidebar/</guid>
+      <guid>http://localhost:1313/website/orangehealth-ppp/</guid>
+      <description>&lt;p&gt;Do you have an innovative idea in the field of dental care that could use support, in collaboration with a private partner? Submit your grant application now.&lt;/p&gt;&#xA;&lt;p&gt;The Orange Health PPP program launches Innovation Booster 2025. This scheme offers financial support for collaborations with private partners.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;In 2025, approximately 10 ORANGEHealth PPP projects will be awarded, each with a PPP contribution of €50-100k.&#xA;Consortia applying must consist of at least 2 ORANGEHealth core partners (university and university of applied sciences) and a Dutch private party.&#xA;The duration of an Innovation Booster project is 12-24 months.&#xA;Online Q&amp;amp;A session on February 13 from 16:00-17:00, register at: lian.verschoor@hu.nl&#xA;The deadline for the pre-proposal is April 16, 2025, 17:00, and for the full application is September 3, 2025, 17:00.&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Please read the call text in the link below carefully. The pre-application procedure is simple, and we are happy to think along with you. Do you have any questions or need advice? Contact us.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Partners</title>
+      <link>http://localhost:1313/website/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/partners/</guid>
       <description>&lt;p&gt;Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.&#xA;Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.&#xA;Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi&#xA;consequat etiam lorem ipsum dolor sit amet nullam.&lt;/p&gt;&#xA;&lt;h3 id=&#34;and-yet-another-subheading&#34;&gt;And Yet Another Subheading&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus&#xA;justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,&#xA;ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet&#xA;vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.&#xA;Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis&#xA;rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.&#xA;Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.&#xA;Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Right Sidebar</title>
-      <link>http://localhost:1313/right-sidebar/</link>
+      <title>Contact</title>
+      <link>http://localhost:1313/website/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/right-sidebar/</guid>
-      <description>&lt;p&gt;Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.&#xA;Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.&#xA;Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi&#xA;consequat etiam lorem ipsum dolor sit amet nullam.&lt;/p&gt;&#xA;&lt;h3 id=&#34;and-yet-another-subheading&#34;&gt;And Yet Another Subheading&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus&#xA;justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,&#xA;ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet&#xA;vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.&#xA;Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis&#xA;rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.&#xA;Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.&#xA;Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Two Sidebar</title>
-      <link>http://localhost:1313/two-sidebar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/two-sidebar/</guid>
-      <description>&lt;p&gt;Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.&#xA;Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.&#xA;Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi&#xA;consequat etiam lorem ipsum dolor sit amet nullam.&lt;/p&gt;&#xA;&lt;h3 id=&#34;and-yet-another-subheading&#34;&gt;And Yet Another Subheading&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus&#xA;justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,&#xA;ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet&#xA;vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.&#xA;Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis&#xA;rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.&#xA;Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.&#xA;Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>No Sidebar</title>
-      <link>http://localhost:1313/no-sidebar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/no-sidebar/</guid>
+      <guid>http://localhost:1313/website/contact/</guid>
       <description>&lt;p&gt;Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.&#xA;Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.&#xA;Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi&#xA;consequat etiam lorem ipsum dolor sit amet nullam.&lt;/p&gt;&#xA;&lt;h3 id=&#34;and-yet-another-subheading&#34;&gt;And Yet Another Subheading&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus&#xA;justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,&#xA;ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet&#xA;vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.&#xA;Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis&#xA;rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.&#xA;Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.&#xA;Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Join ORANGEHealth PPP and realize your project!</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>http://localhost:1313/website/posts/first/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>http://localhost:1313/website/posts/first/</guid>
       <description>&lt;p&gt;Do you have an innovative idea in the field of dental care that could use support, in collaboration with a private partner? Submit your grant application now. The Orange Health PPP program launches Innovation Booster 2025. This scheme offers financial support for collaborations with private partners. The pre-application procedure is simple, and we are happy to think along with you.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;In 2025, approximately 10 ORANGEHealth PPP projects will be awarded, each with a PPP contribution of €50-100k.&lt;/li&gt;&#xA;&lt;li&gt;Consortia applying must consist of at least 2 ORANGEHealth core partners (university and university of applied sciences) and a Dutch private party.&lt;/li&gt;&#xA;&lt;li&gt;The duration of an Innovation Booster project is 12-24 months.&lt;/li&gt;&#xA;&lt;li&gt;Online Q&amp;amp;A session on February 13 from 16:00-17:00, register at: &lt;a href=&#34;mailto:lian.verschoor@hu.nl&#34;&gt;lian.verschoor@hu.nl&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;The deadline for the pre-proposal is April 16, 2025, 17:00, and for the full application is September 3, 2025, 17:00.&#xA;Do you have any questions or need advice? Contact us.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Frank Walboomers &amp;amp; Katarina Jerkovic, Program Leaders ORANGEHealth&lt;/p&gt;</description>
     </item>
     <item>
       <title>Newsletter Orange Health, december 2024</title>
-      <link>http://localhost:1313/posts/second/</link>
+      <link>http://localhost:1313/website/posts/second/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
+      <guid>http://localhost:1313/website/posts/second/</guid>
       <description>&lt;p&gt;On December 9th, the annual ORANGEHealth Researchers’ Day took place, which attracted great interest from consortium members representing all seven knowledge institutes. After a brief update on the current state of affairs within the ORANGEHealth consortium by the new program leaders Frank Walboomers and Katarina Jerkovic, the remainder of the program was expertly moderated by the chair of the day, Egija Zaura.&lt;/p&gt;&#xA;&lt;p&gt;The theme of the day was “matchmaking”. Knowledge institutions were given the opportunity to present new research ideas, focusing on the rationale (problem articulation), potential research questions/objectives, research methodology and design, possible partners, and funding opportunities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Sixth Thing</title>
-      <link>http://localhost:1313/posts/sixth/</link>
+      <link>http://localhost:1313/website/posts/sixth/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sixth/</guid>
+      <guid>http://localhost:1313/website/posts/sixth/</guid>
       <description>&lt;p&gt;Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet&#xA;mattis, sed a rutrum accumsan sed. Suspendisse eu.&lt;/p&gt;&#xA;&lt;p&gt;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Fifth Thing</title>
-      <link>http://localhost:1313/posts/fifth/</link>
+      <link>http://localhost:1313/website/posts/fifth/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fifth/</guid>
+      <guid>http://localhost:1313/website/posts/fifth/</guid>
       <description>&lt;p&gt;Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet&#xA;mattis, sed a rutrum accumsan sed. Suspendisse eu.&lt;/p&gt;&#xA;&lt;p&gt;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Fourth Thing</title>
-      <link>http://localhost:1313/posts/fourth/</link>
+      <link>http://localhost:1313/website/posts/fourth/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fourth/</guid>
+      <guid>http://localhost:1313/website/posts/fourth/</guid>
       <description>&lt;p&gt;Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet&#xA;mattis, sed a rutrum accumsan sed. Suspendisse eu.&lt;/p&gt;&#xA;&lt;p&gt;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Third Thing</title>
-      <link>http://localhost:1313/posts/third/</link>
+      <link>http://localhost:1313/website/posts/third/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/third/</guid>
+      <guid>http://localhost:1313/website/posts/third/</guid>
       <description>&lt;p&gt;Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet&#xA;mattis, sed a rutrum accumsan sed. Suspendisse eu.&lt;/p&gt;&#xA;&lt;p&gt;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>ORANGEFORCE WP1</title>
-      <link>http://localhost:1313/wp1/</link>
+      <title>ORANGEFORCE</title>
+      <link>http://localhost:1313/website/orangeforce-general/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wp1/</guid>
+      <guid>http://localhost:1313/website/orangeforce-general/</guid>
+      <description>&lt;p&gt;ORANGEFORCE is the Kickstart project of the ORANGEHealth consortium that has been running for two years now. ORANGEFORCE (ORal ANd GEneral For OldeR People’s CarE) aims to ensure that elderly individuals are well-connected to the (oral) care system and remain so. We achieve this by developing guidelines that are not only useful in dental and oral care practices but also in professional care settings (care institutions, general practitioners). Besides initiating physical collaboration and consultation between oral care professionals and primary care, efforts are being made to make (patient) information accessible, allowing data to be used for research purposes. Finally, research on saliva and databases increasingly reveals the relationship between overall health and oral health, and work is being done on supportive diagnostic tools for oral care professionals and primary care to recognize underlying diseases as early as possible through the mouth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ORANGEFORCE WP1</title>
+      <link>http://localhost:1313/website/wp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/wp1/</guid>
       <description>&lt;p&gt;ORANGEFORCE is the Kickstart project of the ORANGEHealth consortium that has been running for two years now. ORANGEFORCE (ORal ANd GEneral For OldeR People’s CarE) aims to ensure that elderly individuals are well-connected to the (oral) care system and remain so. We achieve this by developing guidelines that are not only useful in dental and oral care practices but also in professional care settings (care institutions, general practitioners). Besides initiating physical collaboration and consultation between oral care professionals and primary care, efforts are being made to make (patient) information accessible, allowing data to be used for research purposes. Finally, research on saliva and databases increasingly reveals the relationship between overall health and oral health, and work is being done on supportive diagnostic tools for oral care professionals and primary care to recognize underlying diseases as early as possible through the mouth.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ORANGEFORCE WP2</title>
-      <link>http://localhost:1313/wp2/</link>
+      <link>http://localhost:1313/website/wp2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wp2/</guid>
+      <guid>http://localhost:1313/website/wp2/</guid>
       <description>&lt;p&gt;ORANGEFORCE is the Kickstart project of the ORANGEHealth consortium that has been running for two years now. ORANGEFORCE (ORal ANd GEneral For OldeR People’s CarE) aims to ensure that elderly individuals are well-connected to the (oral) care system and remain so. We achieve this by developing guidelines that are not only useful in dental and oral care practices but also in professional care settings (care institutions, general practitioners). Besides initiating physical collaboration and consultation between oral care professionals and primary care, efforts are being made to make (patient) information accessible, allowing data to be used for research purposes. Finally, research on saliva and databases increasingly reveals the relationship between overall health and oral health, and work is being done on supportive diagnostic tools for oral care professionals and primary care to recognize underlying diseases as early as possible through the mouth.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ORANGEFORCE WP3</title>
-      <link>http://localhost:1313/wp3/</link>
+      <link>http://localhost:1313/website/wp3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wp3/</guid>
-      <description>&lt;p&gt;ORANGEFORCE is the Kickstart project of the ORANGEHealth consortium that has been running for two years now. ORANGEFORCE (ORal ANd GEneral For OldeR People’s CarE) aims to ensure that elderly individuals are well-connected to the (oral) care system and remain so. We achieve this by developing guidelines that are not only useful in dental and oral care practices but also in professional care settings (care institutions, general practitioners). Besides initiating physical collaboration and consultation between oral care professionals and primary care, efforts are being made to make (patient) information accessible, allowing data to be used for research purposes. Finally, research on saliva and databases increasingly reveals the relationship between overall health and oral health, and work is being done on supportive diagnostic tools for oral care professionals and primary care to recognize underlying diseases as early as possible through the mouth.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ORANGEFORCE-general</title>
-      <link>http://localhost:1313/orangeforce-general/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/orangeforce-general/</guid>
+      <guid>http://localhost:1313/website/wp3/</guid>
       <description>&lt;p&gt;ORANGEFORCE is the Kickstart project of the ORANGEHealth consortium that has been running for two years now. ORANGEFORCE (ORal ANd GEneral For OldeR People’s CarE) aims to ensure that elderly individuals are well-connected to the (oral) care system and remain so. We achieve this by developing guidelines that are not only useful in dental and oral care practices but also in professional care settings (care institutions, general practitioners). Besides initiating physical collaboration and consultation between oral care professionals and primary care, efforts are being made to make (patient) information accessible, allowing data to be used for research purposes. Finally, research on saliva and databases increasingly reveals the relationship between overall health and oral health, and work is being done on supportive diagnostic tools for oral care professionals and primary care to recognize underlying diseases as early as possible through the mouth.&lt;/p&gt;</description>
     </item>
   </channel>
