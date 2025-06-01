@@ -13,5 +13,8 @@ ORANGEFORCE is the Kickstart project of the ORANGEHealth consortium that has bee
 This project consists of three research lines:
 
 WP1 - ‘Innovative (oral) healthcare approaches for older people’
+
 WP2 - ‘Unlocking and Linking oral health data’
+
 WP3 - ‘Sensing the oral cavity’ (“extra- and intra-oral sensing”)
+
