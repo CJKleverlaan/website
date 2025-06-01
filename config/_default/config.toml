@@ -50,16 +50,16 @@ defaultContentLanguage = "en"
     [params.footer]
 
         [[params.footer.links]]
-            header = "Links to Stuff"
+            header = "Links to Health Holland"
         [[params.footer.links.links]]
-            title = "Mattis et quis rutrum"
-            url = "#"
+            title = "Health Holland"
+            url = "https://www.health-holland.com/"
         [[params.footer.links.links]]
-            title = "Suspendisse amet varius"
-            url = "#"
-#        [[params.footer.links.links]]
-#            title = "Sed et dapibus quis"
-#            url = "#"
+            title = "Health Holland Newsletter"
+            url = "https://www.lsh-update.com/mkb"
+         [[params.footer.links.links]]
+             title = "Health Holland Programs"
+             url = "https://www.health-holland.com/programs"
 #        [[params.footer.links.links]]
 #            title = "Rutrum accumsan dolor"
 #            url = "#"
@@ -74,10 +74,10 @@ defaultContentLanguage = "en"
 #            url = "#"
 
         [[params.footer.links]]
-            header = "More Links to Stuff"
+            header = "Downloads"
         [[params.footer.links.links]]
-            title = "Duis neque nisi dapibus"
-            url = "#"
+            title = "Booster"
+            url = "/downloads/HH-OH-Calltekst-Innovation-Booster-2025.docx"
         [[params.footer.links.links]]
             title = "Sed et dapibus quis"
             url = "#"

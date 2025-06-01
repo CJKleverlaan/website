@@ -21,3 +21,4 @@ The Orange Health PPP program launches Innovation Booster 2025. This scheme offe
 Please read the call text in the link below carefully. The pre-application procedure is simple, and we are happy to think along with you. Do you have any questions or need advice? Contact us.
 
 Frank Walboomers & Katarina Jerkovic, Program Leaders ORANGEHealth
+
