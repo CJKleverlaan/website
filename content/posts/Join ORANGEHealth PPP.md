@@ -2,9 +2,6 @@
 title: Join ORANGEHealth PPP and realize your project!
 image: images/contact.png
 date: "2025-02-05T00:00:00"
-tags:
-  - ORANGEHealth PPP
-  - lorem ipsum
 ---
 Do you have an innovative idea in the field of dental care that could use support, in collaboration with a private partner? Submit your grant application now. The Orange Health PPP program launches Innovation Booster 2025. This scheme offers financial support for collaborations with private partners. The pre-application procedure is simple, and we are happy to think along with you. 
 * In 2025, approximately 10 ORANGEHealth PPP projects will be awarded, each with a PPP contribution of €50-100k.

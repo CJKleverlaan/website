@@ -66,50 +66,20 @@
                 href="http://localhost:1313/website/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/posts/first/</loc>
-    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/website/nl/posts/first/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/website/posts/first/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/website/tags/lorem-ipsum/</loc>
-    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/website/nl/tags/lorem-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/website/tags/lorem-ipsum/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/website/tags/orangehealth-ppp/</loc>
+    <loc>http://localhost:1313/website/posts/join-orangehealth-ppp/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/tags/</loc>
-    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/website/nl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/website/tags/"
-                />
+    <loc>http://localhost:1313/website/posts/newsletter-2024-december/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/posts/newsletter-2024-dds/</loc>
+    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/posts/farewell-willem-fokkema/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/tags/duis-neque/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -121,24 +91,21 @@
                 href="http://localhost:1313/website/tags/duis-neque/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/tags/newsletter/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/website/tags/example/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/posts/second/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/website/tags/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/posts/second/"
+                href="http://localhost:1313/website/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/posts/second/"
+                href="http://localhost:1313/website/tags/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/website/tags/example/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/posts/sixth/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
@@ -153,6 +120,19 @@
                 href="http://localhost:1313/website/posts/sixth/"
                 />
   </url><url>
+    <loc>http://localhost:1313/website/tags/lorem-ipsum/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/website/nl/tags/lorem-ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/website/tags/lorem-ipsum/"
+                />
+  </url><url>
     <loc>http://localhost:1313/website/posts/fifth/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -164,32 +144,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/website/posts/fifth/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/website/posts/fourth/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/website/nl/posts/fourth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/website/posts/fourth/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/website/posts/third/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/website/nl/posts/third/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/website/posts/third/"
                 />
   </url><url>
     <loc>http://localhost:1313/website/wp1/</loc>

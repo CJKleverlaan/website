@@ -79,7 +79,7 @@ defaultContentLanguage = "en"
             header = "Downloads"
         [[params.footer.links.links]]
             title = "Calltekst-Innovation-Booster-2025"
-            url = "downloads/HH-OH-Calltekst-Innovation-Booster-2025.docx"
+            url = "/website/downloads/HH-OH-Calltekst-Innovation-Booster-2025.docx"
 #        [[params.footer.links.links]]
 #            title = "Sed et dapibus quis"
 #            url = "#"

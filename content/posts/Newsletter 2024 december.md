@@ -1,10 +1,7 @@
 ---
-title: Newsletter Orange Health, december 2024
+title: Newsletter Orange Health 2024 december
 image: images/NB-dec-2024-1-1.jpg
 date: "2024-12-09T00:00:00"
-tags:
-  - Newsletter
-  - duis neque
 ---
 
 On December 9th, the annual ORANGEHealth Researchers’ Day took place, which attracted great interest from consortium members representing all seven knowledge institutes. After a brief update on the current state of affairs within the ORANGEHealth consortium by the new program leaders Frank Walboomers and Katarina Jerkovic, the remainder of the program was expertly moderated by the chair of the day, Egija Zaura.

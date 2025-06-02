@@ -8,7 +8,7 @@ weight: 60
 #tags: ["examples", "content"]
 ---
 # The impact of saliva collection methods on measured salivary biomarker levels
-H Al Habobe, E B Haverkort, K Nazmi, A P Van Splunter, R H H Pieters, F J Bikker (https://doi.org/10.1016/j.cca.2023.117628)
+H Al Habobe, EB Haverkort, K Nazmi, AP Van Splunter, RHH Pieters, FJ Bikker (https://doi.org/10.1016/j.cca.2023.117628)
 
 Saliva diagnostics have become increasingly popular due to their non-invasive nature and patient-friendly collection process. Various collection methods are available, yet these are not always well standardized for either quantitative or qualitative analysis. In line, the objective of this study was to evaluate if measured levels of various biomarkers in the saliva of healthy individuals were affected by three distinct saliva collection methods: 1) unstimulated saliva, 2) chew stimulated saliva, and 3) oral rinse. Saliva samples from 30 healthy individuals were obtained by the three collection methods. Then, the levels of various salivary biomarkers such as proteins and ions were determined. It was found that levels of various biomarkers obtained from unstimulated saliva were comparable to those in chew stimulated saliva. The levels of potassium, sodium, and amylase activity differed significantly among the three collection methods. Levels of all biomarkers measured using the oral rinse method significantly differed from those obtained from unstimulated and chew-stimulated saliva. In conclusion, both unstimulated and chew-stimulated saliva provided comparable levels for a diverse group of biomarkers. However, the results obtained from the oral rinse method significantly differed from those of unstimulated and chew-stimulated saliva, due to the diluted nature of the saliva extract
 

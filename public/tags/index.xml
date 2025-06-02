@@ -7,34 +7,13 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© ACTA. All rights reserved</copyright>
-    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/website/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>http://localhost:1313/website/tags/lorem-ipsum/</link>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/lorem-ipsum/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ORANGEHealth PPP</title>
-      <link>http://localhost:1313/website/tags/orangehealth-ppp/</link>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/orangehealth-ppp/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Duis Neque</title>
       <link>http://localhost:1313/website/tags/duis-neque/</link>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/website/tags/duis-neque/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Newsletter</title>
-      <link>http://localhost:1313/website/tags/newsletter/</link>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/newsletter/</guid>
       <description></description>
     </item>
     <item>
@@ -42,6 +21,13 @@
       <link>http://localhost:1313/website/tags/example/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/website/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>http://localhost:1313/website/tags/lorem-ipsum/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/tags/lorem-ipsum/</guid>
       <description></description>
     </item>
   </channel>
