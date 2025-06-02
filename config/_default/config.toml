@@ -74,21 +74,20 @@ defaultContentLanguage = "en"
 #        [[params.footer.links.links]]
 #            title = "Sed et dapibus mattis"
 #            url = "#"
-
         [[params.footer.links]]
             header = "Downloads"
         [[params.footer.links.links]]
             title = "Calltekst-Innovation-Booster-2025"
             url = "/website/downloads/HH-OH-Calltekst-Innovation-Booster-2025.docx"
-#        [[params.footer.links.links]]
-#            title = "Sed et dapibus quis"
-#            url = "#"
-#        [[params.footer.links.links]]
-#            title = "Rutrum accumsan sed"
-#            url = "#"
-#        [[params.footer.links.links]]
-#            title = "Mattis et sed accumsan"
-#            url = "#"
+         [[params.footer.links.links]]
+             title = "InnovationBooster-2025-Preproposal"
+             url = "/website/downloads/HH-OH-InnovationBooster-2025-Preproposal-formulier.docx"
+         [[params.footer.links.links]]
+             title = "Budgetformulier-projecten-2025"
+             url = "/website/downloads/Budgetformulier-projecten-2025.xlsx"
+         [[params.footer.links.links]]
+             title = "Consortium-Agreement-PPP-Projects-Template-standard-PPP-subsidy"
+             url = "/website/downloads/20241208-Consortium-Agreement-PPP-Projects-Template-standard_PPP-subsidy.docx"
 #        [[params.footer.links.links]]
 #            title = "Duis neque nisi sed"
 #            url = "#"

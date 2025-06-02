@@ -68,82 +68,67 @@
   </url><url>
     <loc>http://localhost:1313/website/posts/join-orangehealth-ppp/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/website/nl/posts/join-orangehealth-ppp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/website/posts/join-orangehealth-ppp/"
+                />
   </url><url>
     <loc>http://localhost:1313/website/posts/newsletter-2024-december/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/website/nl/posts/newsletter-2024-december/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/website/posts/newsletter-2024-december/"
+                />
   </url><url>
-    <loc>http://localhost:1313/website/posts/newsletter-2024-dds/</loc>
+    <loc>http://localhost:1313/website/posts/newsletter-2024-juni/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/website/nl/posts/newsletter-2024-juni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/website/posts/newsletter-2024-juni/"
+                />
   </url><url>
     <loc>http://localhost:1313/website/posts/farewell-willem-fokkema/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/website/tags/duis-neque/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/tags/duis-neque/"
+                href="http://localhost:1313/website/nl/posts/farewell-willem-fokkema/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/tags/duis-neque/"
+                href="http://localhost:1313/website/posts/farewell-willem-fokkema/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/tags/example/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/website/tags/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/website/posts/newsletter-2023-december/</loc>
+    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/tags/"
+                href="http://localhost:1313/website/nl/posts/newsletter-2023-december/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/website/posts/sixth/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/website/nl/posts/sixth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/website/posts/sixth/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/website/tags/lorem-ipsum/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/website/nl/tags/lorem-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/website/tags/lorem-ipsum/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/website/posts/fifth/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/website/nl/posts/fifth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/website/posts/fifth/"
+                href="http://localhost:1313/website/posts/newsletter-2023-december/"
                 />
   </url><url>
     <loc>http://localhost:1313/website/wp1/</loc>
@@ -180,6 +165,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/website/orangeforce-general/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/website/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/website/nl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/website/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/website/wp2/</loc>
