@@ -2,7 +2,7 @@
 title: "Contact"
 description: "All content, all the time."
 menu: main
-weight: 70
+weight: 80
 image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content"]

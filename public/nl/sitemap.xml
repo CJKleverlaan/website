@@ -40,6 +40,8 @@
                 href="http://localhost:1313/website/nl/orangehealth-ppp/"
                 />
   </url><url>
+    <loc>http://localhost:1313/website/nl/publicaties/</loc>
+  </url><url>
     <loc>http://localhost:1313/website/nl/partners/</loc>
     <xhtml:link
                 rel="alternate"

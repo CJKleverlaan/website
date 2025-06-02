@@ -9,7 +9,7 @@
     pageRef = 'WP1'
 [[main]]
     parent = "ORANGEFORCE"
-    name = "Unlocking and connecting oral health data"
+    name = "Oral health data"
     weight = 32
     pageRef = 'WP2'
 [[main]]

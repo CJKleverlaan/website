@@ -2,7 +2,7 @@
 title: "Partners"
 description: "All content, all the time."
 menu: main
-weight: 60
+weight: 70
 image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content"]
