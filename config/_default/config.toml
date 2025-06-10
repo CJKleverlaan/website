@@ -1,4 +1,4 @@
-baseURL = "https://CJKleverlaan.github.io/website/"
+baseURL = "https://orangehealth.nl/"
 languageCode = "en-us"
 title = "Orange Health"
 theme = "hugo-arcana"
