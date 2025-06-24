@@ -28,16 +28,16 @@
     [params.footer]
 
         [[params.footer.links]]
-            header = "Links to Stuff NL"
+            header = "Links naar Health Holland"
         [[params.footer.links.links]]
-            title = "Mattis et quis rutrum"
-            url = "#"
+            title = "Health~Holland"
+            url = "https://www.health-holland.com/"
         [[params.footer.links.links]]
-            title = "Suspendisse amet varius"
-            url = "#"
-#        [[params.footer.links.links]]
-#            title = "Sed et dapibus quis"
-#            url = "#"
+            title = "Health~Holland Newsletter"
+            url = "https://www.lsh-update.com/mkb"
+         [[params.footer.links.links]]
+             title = "Health~Holland Programs"
+             url = "https://www.health-holland.com/programs"
 #        [[params.footer.links.links]]
 #            title = "Rutrum accumsan dolor"
 #            url = "#"
@@ -50,21 +50,20 @@
 #        [[params.footer.links.links]]
 #            title = "Sed et dapibus mattis"
 #            url = "#"
-
         [[params.footer.links]]
-            header = "More Links to Stuff"
+            header = "Downloads"
         [[params.footer.links.links]]
-            title = "Duis neque nisi dapibus"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "Sed et dapibus quis"
-            url = "#"
-#        [[params.footer.links.links]]
-#            title = "Rutrum accumsan sed"
-#            url = "#"
-#        [[params.footer.links.links]]
-#            title = "Mattis et sed accumsan"
-#            url = "#"
+            title = "Calltekst-Innovation-Booster-2025"
+            url = "/downloads/HH-OH-Calltekst-Innovation-Booster-2025.docx"
+         [[params.footer.links.links]]
+             title = "InnovationBooster-2025-Preproposal"
+             url = "/downloads/HH-OH-InnovationBooster-2025-Preproposal-formulier.docx"
+         [[params.footer.links.links]]
+             title = "Budgetformulier-projecten-2025"
+             url = "/downloads/Budgetformulier-projecten-2025.xlsx"
+         [[params.footer.links.links]]
+             title = "Consortium-Agreement-PPP-Projects-Template-standard-PPP-subsidy"
+             url = "/downloads/20241208-Consortium-Agreement-PPP-Projects-Template-standard_PPP-subsidy.docx"
 #        [[params.footer.links.links]]
 #            title = "Duis neque nisi sed"
 #            url = "#"
@@ -75,7 +74,7 @@
 #            title = "Rutrum amet varius"
 #            url = "#"
 
-#        [params.footer.contact_form]
-#            enabled = true
-#            header = "Get In Touch"
-#            action = ""
+#         [params.footer.contact_form]
+#             enabled = true
+#             header = "Contact"
+#             action = "mailto:c.kleverlaan@acta.nl"
