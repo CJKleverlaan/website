@@ -1,4 +1,4 @@
-----
+---
 title: "Partners"
 description: "De volgende partner zijn betrokken"
 menu: main
