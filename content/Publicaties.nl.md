@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publicaties"
 #description: "All content, all the time."
 menu: main
 weight: 60

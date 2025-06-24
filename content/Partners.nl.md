@@ -1,6 +1,6 @@
 ----
 title: "Partners"
-description: "De volgende partner zijn betrokken bij dit project"
+description: "De volgende partner zijn betrokken"
 menu: main
 weight: 70
 image: images/partners.png
