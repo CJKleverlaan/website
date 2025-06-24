@@ -8,13 +8,11 @@ menu: ORANGEFORCE-general
 #tags: ["ORANGEFORCE", "content"]
 ---
 
-ORANGEFORCE is the Kickstart project of the ORANGEHealth consortium that has been running for two years now. ORANGEFORCE (ORal ANd GEneral For OldeR People’s CarE) aims to ensure that elderly individuals are well-connected to the (oral) care system and remain so. We achieve this by developing guidelines that are not only useful in dental and oral care practices but also in professional care settings (care institutions, general practitioners). Besides initiating physical collaboration and consultation between oral care professionals and primary care, efforts are being made to make (patient) information accessible, allowing data to be used for research purposes. Finally, research on saliva and databases increasingly reveals the relationship between overall health and oral health, and work is being done on supportive diagnostic tools for oral care professionals and primary care to recognize underlying diseases as early as possible through the mouth.
+ORANGEFORCE is het Kickstart-project van het ORANGEHealth-consortium dat nu al drie jaar loopt. ORANGEFORCE (ORal ANd GEneral For OldeR People’s CarE) heeft als doel ervoor te zorgen dat ouderen goed aangesloten zijn op het (mond)zorgsysteem en dat ook blijven. We bereiken dit door richtlijnen te ontwikkelen die niet alleen bruikbaar zijn in tandheelkundige en mondzorgpraktijken, maar ook in professionele zorgomgevingen (zorginstellingen, huisartsen). Naast het initiëren van fysieke samenwerking en overleg tussen mondzorgprofessionals en eerstelijnszorg, worden er inspanningen geleverd om (patiënten)informatie toegankelijk te maken, zodat gegevens kunnen worden gebruikt voor onderzoeksdoeleinden. Ten slotte blijkt uit onderzoek naar speeksel en databases steeds meer dat er een verband bestaat tussen de algehele gezondheid en de mondgezondheid, en wordt er gewerkt aan ondersteunende diagnostische hulpmiddelen voor mondzorgprofessionals en eerstelijnszorg om onderliggende ziekten zo vroeg mogelijk via de mond te herkennen.
 
-This project consists of three research lines:
+# Dit project bestaat uit drie onderzoekslijnen, die hieronder worden samengevat.
+* WP1 - ‘Innovatieve benaderingen van (orale) gezondheidszorg voor ouderen’
+* WP2 - ‘Ontsluiting en gebruik van mondgezondheidsgegevens’
+* WP3 - ‘Signaleren van gezondheid en ziekte in de mond’
 
-WP1 - ‘Innovative (oral) healthcare approaches for older people’
-
-WP2 - ‘Unlocking and Linking oral health data’
-
-WP3 - ‘Sensing the oral cavity’ (“extra- and intra-oral sensing”)
 

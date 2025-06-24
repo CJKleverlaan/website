@@ -1,19 +1,6 @@
 ---
-title: "ORANGEFORCE WP1"
-#description: "All content, all the time."
-menu: WP1
-#weight: 90
-#image: images/banner.jpg
-#image_alt: "Hello!"
-tags: ["ORANGEFORCE", "content"]
+title: "Innovatieve benaderingen van (orale) gezondheidszorg voor ouderen"
+
 ---
 
-ORANGEFORCE is the Kickstart project of the ORANGEHealth consortium that has been running for two years now. ORANGEFORCE (ORal ANd GEneral For OldeR People’s CarE) aims to ensure that elderly individuals are well-connected to the (oral) care system and remain so. We achieve this by developing guidelines that are not only useful in dental and oral care practices but also in professional care settings (care institutions, general practitioners). Besides initiating physical collaboration and consultation between oral care professionals and primary care, efforts are being made to make (patient) information accessible, allowing data to be used for research purposes. Finally, research on saliva and databases increasingly reveals the relationship between overall health and oral health, and work is being done on supportive diagnostic tools for oral care professionals and primary care to recognize underlying diseases as early as possible through the mouth.
-
-This project consists of three research lines, summarized below.
-
-Research Line 1: ‘Innovative (oral) healthcare approaches for older people’
-
-Research Line 2: ‘Unlocking and Linking oral health data’
-
-Research line 3: ‘Sensing the oral cavity’ (“extra- and intra-oral sensing”)
+Dit programmaonderdeel speelt zich af in de fysieke omgeving waar ouderen gezondheidszorg van mondzorgprofessionals en andere zorgverleners krijgen. Dat kan thuis zijn, maar ook bijvoorbeeld in een zorginstelling. De mondgezondheid en de algemene gezondheid worden hier simultaan gevolgd. Door gebruik van ondersteunende diagnostiek worden data verzameld en geïnterpreteerd. Deze komen beschikbaar voor de zorgverleners die op basis hiervan adequate zorgstrategieën en interventies kunnen kiezen. Dit onderdeel wordt het ‘fieldlab’ genoemd. Het field lab levert ook informatie aan de twee andere onderzoekslijnen en gebruikt hun input in de praktijk.

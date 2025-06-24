@@ -1,38 +1,26 @@
 banner:
   enable: true
   image: "images/banner.jpg"
-  contents: "**Arcana:** _Ein responsives Webseite-Vorlagen-Freebie von [HTML5 UP](https://html5up.net/)_"
-  button:
-    contents: "Erfahre mehr"
-    url: "#"
+#  contents: "On a mission to shape the future"
 items:
+  - type: heading
+#    heading: On a mission to shape the future
+    contents: Oral healthcare professionals in the Netherlands join forces in ORANGEHealth in a mission to shape the future of health and healthcare
+
   - type: highlights
-    items_per_row: 3
+    items_per_row: 2
     items:
-    - title: Das ist wichtig
+    - title: Onze Visie
       icon: fa-paper-plane
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Auch wichtig
-      icon: fa-pencil-alt
+        De zeven Nederlandse opleidingsinstituten voor mondzorg en tandheelkunde hebben hun krachten gebundeld in ORANGEHealth. Naast onderwijs doen ze ook onderzoek en verlenen ze zorg. Deze zeven partners zijn de initiatiefnemers van een meerjarenprogramma waarin ze samen met publieke en private partijen vorm geven aan de toekomst van mondzorg en mondgezondheid, met speciale aandacht voor preventie, de juiste zorg op de juiste plek, interprofessionele samenwerking en aandacht voor kwetsbare groepen. Het consortium geeft invulling aan de steeds luider klinkende roep om meer samenwerking tussen mondzorg en algemene gezondheidszorg.
+    - title: Ons Verhaal
+      icon: fa-paper-plane
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Wahrscheinlich wichtig
-      icon: fa-wrench
-      content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-  - type: heading
-    heading: Eine riesen Überschrift für was auch immer du willst
-    contents: Mit einem viel kleineren Untertitel direkt unterhalb
+        De zeven kernpartners, ACTA, Radboudumc, UMCG, Hanzehogeschool Groningen, HAN University of Applied Sciences, Hogeschool Inholland en HU University of Applied Sciences Utrecht, zijn de oprichters van ORANGEHealth. Momenteel is dit consortium betrokken bij twee innovatieprogramma's, ORANGEFORCE en ORANGEHealth PPP van Health ~ Holland. Health ~ Holland stimuleert innovatief onderzoek door publiek-private samenwerking in de sector Life Sciences & Health te financieren. De PPP-innovatiesubsidie heeft tot doel publiek-private samenwerking te stimuleren voor onderzoek dat economische en maatschappelijke impact heeft. 
   - type: posts
-    #heading: Recent Posts
+    heading: Recent Posts
     content_type: posts
-    max: 4
+    max: 2
   - type: cta
-    contents: Bist du bereit, deine Aufgabe fortzusetzen?
-    button:
-      contents: Münze einwerfen
-      url: "#"
+    contents: ORANGEHealth - On a mission to shape the future -

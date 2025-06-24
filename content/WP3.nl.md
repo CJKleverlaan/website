@@ -1,19 +1,6 @@
 ---
-title: "ORANGEFORCE WP3"
-#description: "All content, all the time."
-menu: WP3
-#weight: 90
-#image: images/banner.jpg
-#image_alt: "Hello!"
-tags: ["ORANGEFORCE", "content"]
+title: "Signaleren van gezondheid en ziekte in de mond"
+
 ---
 
-ORANGEFORCE is the Kickstart project of the ORANGEHealth consortium that has been running for two years now. ORANGEFORCE (ORal ANd GEneral For OldeR People’s CarE) aims to ensure that elderly individuals are well-connected to the (oral) care system and remain so. We achieve this by developing guidelines that are not only useful in dental and oral care practices but also in professional care settings (care institutions, general practitioners). Besides initiating physical collaboration and consultation between oral care professionals and primary care, efforts are being made to make (patient) information accessible, allowing data to be used for research purposes. Finally, research on saliva and databases increasingly reveals the relationship between overall health and oral health, and work is being done on supportive diagnostic tools for oral care professionals and primary care to recognize underlying diseases as early as possible through the mouth.
-
-This project consists of three research lines, summarized below.
-
-Research Line 1: ‘Innovative (oral) healthcare approaches for older people’
-
-Research Line 2: ‘Unlocking and Linking oral health data’
-
-Research line 3: ‘Sensing the oral cavity’ (“extra- and intra-oral sensing”)
+Speeksel en de kwaliteit van het mondecosysteem vormen de basis van deze onderzoekslijn. Speeksel is immers de aangeboren beschermer van de mondholte. De speekselvloed in combinatie met de speekselsamenstelling is representatief voor de mondgezondheidstoestand, de aanwezige biomarkers kunnen duiden op systemische aandoeningen die voorheen uitsluitend via bloedafname werden vastgesteld. Deze kennis staat nog in de kinderschoenen maar heeft een groot potentieel omdat speekselafname nauwelijks belastend is voor de patiënt. In dit project wordt met name gefocust op droge mondproblematiek. Het droge-mond-syndroom (DMS) is komt typisch voor bij oudere mensen, waarbij polyfarmacie of het syndroom van Sjögren op de loer liggen, en dat is uiteindelijk een sterke risicofactor voor cariës en parodontitis.
