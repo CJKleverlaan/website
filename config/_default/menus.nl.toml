@@ -1,7 +1,7 @@
 [[main]]
     name = "ORANGEFORCE"
     weight = 30
-    pageRef = 'ORANGEFORCE-algemeen'
+    pageRef = 'ORANGEFORCE-general'
 [[main]]
     parent = "ORANGEFORCE"
     name = "Mondzorg voor Oudere"
