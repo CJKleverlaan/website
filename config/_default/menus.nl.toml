@@ -1,20 +1,20 @@
 [[main]]
     name = "ORANGEFORCE"
     weight = 30
-    pageRef = 'ORANGEFORCE-general'
+    pageRef = 'ORANGEFORCE-algemeen'
 [[main]]
     parent = "ORANGEFORCE"
-    name = "Oral care for older persons"
+    name = "Mondzorg voor Oudere"
     weight = 31
     pageRef = 'WP1'
 [[main]]
     parent = "ORANGEFORCE"
-    name = "Oral health data"
+    name = "Mondzorg data"
     weight = 32
     pageRef = 'WP2'
 [[main]]
     parent = "ORANGEFORCE"
-    name = "Measuring health in the mouth"
+    name = "Meten in de Mond"
     weight = 33
     pageRef = 'WP3'
 
