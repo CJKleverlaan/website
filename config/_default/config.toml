@@ -80,14 +80,23 @@ defaultContentLanguage = "en"
             title = "Calltekst-Innovation-Booster-2025"
             url = "/downloads/HH-OH-Calltekst-Innovation-Booster-2025.docx"
          [[params.footer.links.links]]
-             title = "InnovationBooster-2025-Preproposal"
-             url = "/downloads/HH-OH-InnovationBooster-2025-Preproposal-formulier.docx"
+             title = "Consortium Agreement - clinical studies"
+             url = "/downloads/202501 - Consortium Agreement PPP Projects Template - clinical studies_PPP subsidy.docx"
          [[params.footer.links.links]]
-             title = "Budgetformulier-projecten-2025"
-             url = "/downloads/Budgetformulier-projecten-2025.xlsx"
+             title = "Consortium Agreement - standard"
+             url = "/downloads/202501 - Consortium Agreement PPP Projects Template - standard_PPP subsidy.docx"
          [[params.footer.links.links]]
-             title = "Consortium-Agreement-PPP-Projects-Template-standard-PPP-subsidy"
-             url = "/downloads/20241208-Consortium-Agreement-PPP-Projects-Template-standard_PPP-subsidy.docx"
+             title = "Template Letter of Commitment 2025 – EN"
+             url = "/downloads/Template Letter of Commitment 2025 – Engels.docx"
+         [[params.footer.links.links]]
+             title = "Template Letter of Commitment 2025 – NL"
+             url = "/downloads/Template Letter of Commitment 2025 – Nederlands.docx"
+         [[params.footer.links.links]]
+             title = "Insert for article 8 Consortium Agreement"
+             url = "/downloads/202501 - Insert for article 8 Consortium Agreement - EN.pdf"
+         [[params.footer.links.links]]
+             title = "Insert for article 8 Consortium Agreement"
+             url = "/downloads/TKI-LSH Standaard Budget Form - 2025 DEF.xlsx"
 #        [[params.footer.links.links]]
 #            title = "Duis neque nisi sed"
 #            url = "#"

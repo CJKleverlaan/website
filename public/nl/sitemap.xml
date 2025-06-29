@@ -2,199 +2,193 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/website/nl/</loc>
+    <loc>http://localhost:1313/nl/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/"
+                href="http://localhost:1313/nl/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/nl/posts/</loc>
+    <loc>http://localhost:1313/nl/posts/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/posts/"
+                href="http://localhost:1313/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/posts/"
+                href="http://localhost:1313/nl/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/nl/orangehealth-ppp/</loc>
+    <loc>http://localhost:1313/nl/orangehealth-ppp/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/orangehealth-ppp/"
+                href="http://localhost:1313/orangehealth-ppp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/orangehealth-ppp/"
+                href="http://localhost:1313/nl/orangehealth-ppp/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/nl/publicaties/</loc>
+    <loc>http://localhost:1313/nl/publicaties/</loc>
   </url><url>
-    <loc>http://localhost:1313/website/nl/partners/</loc>
+    <loc>http://localhost:1313/nl/partners/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/partners/"
+                href="http://localhost:1313/partners/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/partners/"
+                href="http://localhost:1313/nl/partners/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/nl/contact/</loc>
+    <loc>http://localhost:1313/nl/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/contact/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/contact/"
+                href="http://localhost:1313/nl/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/nl/posts/join-orangehealth-ppp/</loc>
+    <loc>http://localhost:1313/nl/posts/join-orangehealth-ppp/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/posts/join-orangehealth-ppp/"
+                href="http://localhost:1313/posts/join-orangehealth-ppp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/posts/join-orangehealth-ppp/"
+                href="http://localhost:1313/nl/posts/join-orangehealth-ppp/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/nl/posts/newsletter-2024-december/</loc>
+    <loc>http://localhost:1313/nl/posts/newsletter-2024-december/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/posts/newsletter-2024-december/"
+                href="http://localhost:1313/posts/newsletter-2024-december/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/posts/newsletter-2024-december/"
+                href="http://localhost:1313/nl/posts/newsletter-2024-december/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/nl/posts/newsletter-2024-juni/</loc>
+    <loc>http://localhost:1313/nl/posts/newsletter-2024-juni/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/posts/newsletter-2024-juni/"
+                href="http://localhost:1313/posts/newsletter-2024-juni/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/posts/newsletter-2024-juni/"
+                href="http://localhost:1313/nl/posts/newsletter-2024-juni/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/nl/posts/farewell-willem-fokkema/</loc>
+    <loc>http://localhost:1313/nl/posts/farewell-willem-fokkema/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/posts/farewell-willem-fokkema/"
+                href="http://localhost:1313/posts/farewell-willem-fokkema/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/posts/farewell-willem-fokkema/"
+                href="http://localhost:1313/nl/posts/farewell-willem-fokkema/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/nl/posts/newsletter-2023-december/</loc>
+    <loc>http://localhost:1313/nl/posts/newsletter-2023-december/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/posts/newsletter-2023-december/"
+                href="http://localhost:1313/posts/newsletter-2023-december/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/posts/newsletter-2023-december/"
+                href="http://localhost:1313/nl/posts/newsletter-2023-december/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/nl/tags/content/</loc>
-  </url><url>
-    <loc>http://localhost:1313/website/nl/tags/examples/</loc>
-  </url><url>
-    <loc>http://localhost:1313/website/nl/orangeforce-general/</loc>
+    <loc>http://localhost:1313/nl/wp1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/orangeforce-general/"
+                href="http://localhost:1313/wp1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/orangeforce-general/"
+                href="http://localhost:1313/nl/wp1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/nl/tags/orangeforce/</loc>
-  </url><url>
-    <loc>http://localhost:1313/website/nl/wp1/</loc>
+    <loc>http://localhost:1313/nl/wp2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/wp1/"
+                href="http://localhost:1313/wp2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/wp1/"
+                href="http://localhost:1313/nl/wp2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/nl/wp2/</loc>
+    <loc>http://localhost:1313/nl/orangeforce-general/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/wp2/"
+                href="http://localhost:1313/orangeforce-general/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/wp2/"
+                href="http://localhost:1313/nl/orangeforce-general/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/nl/wp3/</loc>
+    <loc>http://localhost:1313/nl/wp3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/wp3/"
+                href="http://localhost:1313/wp3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/wp3/"
+                href="http://localhost:1313/nl/wp3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/website/nl/tags/</loc>
+    <loc>http://localhost:1313/nl/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/website/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/website/nl/tags/"
+                href="http://localhost:1313/nl/tags/"
                 />
   </url>
 </urlset>

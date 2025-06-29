@@ -2,32 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Orange Health</title>
-    <link>http://localhost:1313/website/nl/tags/</link>
+    <link>http://localhost:1313/nl/tags/</link>
     <description>Recent content in Tags on Orange Health</description>
     <generator>Hugo</generator>
     <language>nl</language>
     <copyright>© ACTA. All rights reserved</copyright>
-    <atom:link href="http://localhost:1313/website/nl/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Content</title>
-      <link>http://localhost:1313/website/nl/tags/content/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/nl/tags/content/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Examples</title>
-      <link>http://localhost:1313/website/nl/tags/examples/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/nl/tags/examples/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ORANGEFORCE</title>
-      <link>http://localhost:1313/website/nl/tags/orangeforce/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/nl/tags/orangeforce/</guid>
-      <description></description>
-    </item>
+    <atom:link href="http://localhost:1313/nl/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
