@@ -53,6 +53,7 @@ Background: Tooth wear is the loss of dental hard tissue due to chemical and mec
 6.	Joanita van Santen, ACTA – Intra-Oral Ion Concentration Measurements in Healthy Individuals
 7.	Isabelle Bos, Nivel – Connecting routine healthcare data from dental care and general practice: First results and opportunities from a data linkage study
 8.	Joanita van Santen: Salivary Intra-Oral Ion Concentrations in Healthy Individuals. (Poster)
+9.  Peggy van Spreuwel, HU - Dental practices as a source of oral health data: a scoping review (Poster)
 
 # Scientific presentations and posters at the Dutch Dental Science days 2025
 1. Mees de Jong, ACTA – ‘Development of a Short screening Tool pRedicting Oral Health deterioration in older people by the general practitioner (SHORT)’
