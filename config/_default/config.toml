@@ -27,6 +27,10 @@ defaultContentLanguage = "en"
     images = ['images/metaimage.jpg']
     show_post_dates = true
 
+[markup.goldmark.renderer]
+unsafe = true
+
+
 #    [[params.social]]
 #        title = "Twitter"
 #        icon = "fa-twitter"

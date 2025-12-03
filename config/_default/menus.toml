@@ -5,16 +5,44 @@
 [[main]]
     parent = "ORANGEFORCE"
     name = "Oral care for the elderly"
-    weight = 31
+    weight = 30
     pageRef = 'WP1'
 [[main]]
     parent = "ORANGEFORCE"
     name = "Oral care Data"
-    weight = 32
+    weight = 31
     pageRef = 'WP2'
 [[main]]
     parent = "ORANGEFORCE"
     name = "Measuring in the Mouth"
-    weight = 33
+    weight = 32
     pageRef = 'WP3'
-
+[[main]]
+    name = "Oral Cohorts"
+    weight = 70
+    pageRef = 'OralCohort-general'
+[[main]]
+    parent = "Oral Cohorts"
+    name = "GLOBE"
+    weight = 71
+    pageRef = 'Cohort_GLOBE'
+[[main]]
+    parent = "Oral Cohorts"
+    name = "LASA"
+    weight = 72
+    pageRef = 'Cohort_LASA'
+[[main]]
+    parent = "Oral Cohorts"
+    name = "Lifelines"
+    weight = 73
+    pageRef = 'Cohort_Lifelines'
+[[main]]
+    parent = "Oral Cohorts"
+    name = "RODAM"
+    weight = 74
+    pageRef = 'Cohort_RODAM'
+[[main]]
+    parent = "Oral Cohorts"
+    name = "Maastricht Study"
+    weight = 75
+    pageRef = 'Cohort_TheMaastrichtStudy'

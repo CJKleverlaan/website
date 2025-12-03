@@ -1,8 +1,9 @@
 ---
 title: "ORANGEFORCE"
 #description: "All content, all the time."
-menu: ORANGEFORCE-general
-#weight: 90
+#menu: ORANGEFORCE-general
+menu: main
+weight: 30
 #image: images/banner.jpg
 #image_alt: "Hello!"
 #tags: ["ORANGEFORCE", "content"]

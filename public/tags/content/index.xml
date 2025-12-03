@@ -2,32 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content on Orange Health</title>
-    <link>http://localhost:1313/website/tags/content/</link>
+    <link>http://localhost:1313/tags/content/</link>
     <description>Recent content in Content on Orange Health</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© Untitled. All rights reserved</copyright>
-    <atom:link href="http://localhost:1313/website/tags/content/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© ACTA. All rights reserved</copyright>
+    <atom:link href="http://localhost:1313/tags/content/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ORANGEFORCE WP1</title>
-      <link>http://localhost:1313/website/wp1/</link>
+      <title>Left Sidebar</title>
+      <link>http://localhost:1313/left-sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/wp1/</guid>
-      <description>&lt;p&gt;ORANGEFORCE is the Kickstart project of the ORANGEHealth consortium that has been running for two years now. ORANGEFORCE (ORal ANd GEneral For OldeR People’s CarE) aims to ensure that elderly individuals are well-connected to the (oral) care system and remain so. We achieve this by developing guidelines that are not only useful in dental and oral care practices but also in professional care settings (care institutions, general practitioners). Besides initiating physical collaboration and consultation between oral care professionals and primary care, efforts are being made to make (patient) information accessible, allowing data to be used for research purposes. Finally, research on saliva and databases increasingly reveals the relationship between overall health and oral health, and work is being done on supportive diagnostic tools for oral care professionals and primary care to recognize underlying diseases as early as possible through the mouth.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ORANGEFORCE WP2</title>
-      <link>http://localhost:1313/website/wp2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/wp2/</guid>
-      <description>&lt;p&gt;ORANGEFORCE is the Kickstart project of the ORANGEHealth consortium that has been running for two years now. ORANGEFORCE (ORal ANd GEneral For OldeR People’s CarE) aims to ensure that elderly individuals are well-connected to the (oral) care system and remain so. We achieve this by developing guidelines that are not only useful in dental and oral care practices but also in professional care settings (care institutions, general practitioners). Besides initiating physical collaboration and consultation between oral care professionals and primary care, efforts are being made to make (patient) information accessible, allowing data to be used for research purposes. Finally, research on saliva and databases increasingly reveals the relationship between overall health and oral health, and work is being done on supportive diagnostic tools for oral care professionals and primary care to recognize underlying diseases as early as possible through the mouth.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ORANGEFORCE WP3</title>
-      <link>http://localhost:1313/website/wp3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/wp3/</guid>
-      <description>&lt;p&gt;ORANGEFORCE is the Kickstart project of the ORANGEHealth consortium that has been running for two years now. ORANGEFORCE (ORal ANd GEneral For OldeR People’s CarE) aims to ensure that elderly individuals are well-connected to the (oral) care system and remain so. We achieve this by developing guidelines that are not only useful in dental and oral care practices but also in professional care settings (care institutions, general practitioners). Besides initiating physical collaboration and consultation between oral care professionals and primary care, efforts are being made to make (patient) information accessible, allowing data to be used for research purposes. Finally, research on saliva and databases increasingly reveals the relationship between overall health and oral health, and work is being done on supportive diagnostic tools for oral care professionals and primary care to recognize underlying diseases as early as possible through the mouth.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/left-sidebar/</guid>
+      <description>&lt;p&gt;Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.&#xA;Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.&#xA;Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi&#xA;consequat etiam lorem ipsum dolor sit amet nullam.&lt;/p&gt;&#xA;&lt;h3 id=&#34;and-yet-another-subheading&#34;&gt;And Yet Another Subheading&lt;/h3&gt;&#xA;&lt;h2 id=&#34;mijn-tabel&#34;&gt;Mijn Tabel&lt;/h2&gt;&#xA;&lt;table&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th&gt;Kolom 1&lt;/th&gt;&#xD;&#xA;            &lt;th&gt;Kolom 2&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td&gt;Rij 1 - Kolom 1&lt;/td&gt;&#xD;&#xA;            &lt;td&gt;Rij 1 - Kolom 2&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td&gt;Rij 2 - Kolom 1&lt;/td&gt;&#xD;&#xA;            &lt;td&gt;Rij 2 - Kolom 2&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>

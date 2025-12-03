@@ -144,6 +144,18 @@
                 href="http://localhost:1313/nl/posts/newsletter-2023-december/"
                 />
   </url><url>
+    <loc>http://localhost:1313/nl/cohort_globe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cohort_globe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/cohort_globe/"
+                />
+  </url><url>
     <loc>http://localhost:1313/nl/wp1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -154,6 +166,30 @@
                 rel="alternate"
                 hreflang="nl"
                 href="http://localhost:1313/nl/wp1/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/nl/cohort_lasa/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cohort_lasa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/cohort_lasa/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/nl/cohort_lifelines/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cohort_lifelines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/cohort_lifelines/"
                 />
   </url><url>
     <loc>http://localhost:1313/nl/wp2/</loc>
@@ -168,6 +204,18 @@
                 href="http://localhost:1313/nl/wp2/"
                 />
   </url><url>
+    <loc>http://localhost:1313/nl/oralcohort-general/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/oralcohort-general/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/oralcohort-general/"
+                />
+  </url><url>
     <loc>http://localhost:1313/nl/orangeforce-general/</loc>
     <xhtml:link
                 rel="alternate"
@@ -178,6 +226,18 @@
                 rel="alternate"
                 hreflang="nl"
                 href="http://localhost:1313/nl/orangeforce-general/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/nl/cohort_rodam/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cohort_rodam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/cohort_rodam/"
                 />
   </url><url>
     <loc>http://localhost:1313/nl/wp3/</loc>
@@ -202,6 +262,18 @@
                 rel="alternate"
                 hreflang="nl"
                 href="http://localhost:1313/nl/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/nl/cohort_themaastrichtstudy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cohort_themaastrichtstudy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/cohort_themaastrichtstudy/"
                 />
   </url>
 </urlset>
