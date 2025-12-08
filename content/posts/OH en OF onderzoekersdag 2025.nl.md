@@ -1,6 +1,6 @@
 ---
 title: ORANGEHealth en ORANGEForce onderzoekersdag 2025
-image: images/contact2025.jpg
+image: images/contact2025.png
 date: "2025-12-08T00:00:00"
 ---
 
