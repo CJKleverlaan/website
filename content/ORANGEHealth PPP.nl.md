@@ -1,5 +1,5 @@
 ---
-title: "ORANGEHealth PPP"
+title: "ORANGEHealth PPS"
 #description: "All content, all the time."
 menu: main
 weight: 40
@@ -8,15 +8,11 @@ weight: 40
 #tags: ["examples", "content"]
 ---
 
-Do you have an innovative idea in the field of dental care that could use support, in collaboration with a private partner? Submit your grant application now.
+# Pre-Proposal ronde 2026 “Passende, Persoonsgerichte, Effectieve & Doelmatige Zorg” 
 
-The Orange Health PPP program launches Innovation Booster 2025. This scheme offers financial support for collaborations with private partners.
+Heeft u een innovatief idee op het gebied van tandheelkunde en mondzorgkunde dat ondersteuning kan gebruiken, in samenwerking met een private partner? Dien dan nu uw subsidieaanvraag in. Het ORANGEHealth PPS-programma schrijft hier de oproep uit voor de ronde “Passende, Persoonsgerichte, Effectieve & Doelmatige Zorg”. Deze regeling biedt financiële ondersteuning voor samenwerkingen met private partners. In 2026 worden circa 7-8 ORANGEHealth PPS-projecten toegekend, elk met een PPS-bijdrage van € 100.000-250.000. Aanvragende consortia moeten bestaan uit ten minste 2 leden van de ORANGEHealth programmagroep (universiteit en hogeschool) en een Nederlandse private partij. Natuurlijk mogen daarnaast meerdere partners betrokken zijn. De looptijd van een project is 24-48 maanden. De deadline voor de volledige aanvraag is 2 september 2026, 17:00 uur (alleen op uitnodiging). 
 
-* In 2025, approximately 7-8 ORANGEHealth PPP projects will be awarded, each with a PPP contribution of €50-100k.
-* Consortia applying must consist of at least 2 ORANGEHealth core partners (university and university of applied sciences) and a Dutch private party.
-* The duration of an Innovation Booster project is 12-24 months.
-* The deadline for the full application is September 3, 2025, 17:00 (by invitation only).
+Lees de tekst van de oproep in de onderstaande link zorgvuldig door. We denken graag met u mee. Heeft u vragen of advies nodig? Neem dan contact met ons op.
 
-Please read the call text in the link below carefully. We are happy to think along with you. Do you have any questions or need advice? Contact us.
+Frank Walboomers & Jenny Cadée, programmaleiders ORANGEHealth
 
-Frank Walboomers & Jenny Cadée, Program Leaders ORANGEHealth

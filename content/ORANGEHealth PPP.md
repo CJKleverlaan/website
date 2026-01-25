@@ -8,14 +8,9 @@ weight: 40
 #tags: ["examples", "content"]
 ---
 
-Do you have an innovative idea in the field of dental care that could use support, in collaboration with a private partner? Submit your grant application now.
+# Pre-Proposal round 2026 ‘Appropriate, Personalised, Effective & Efficient Care’ 
 
-The Orange Health PPP program launches Innovation Booster 2025. This scheme offers financial support for collaborations with private partners.
-
-* In 2025, approximately 7-8 ORANGEHealth PPP projects will be awarded, each with a PPP contribution of €50-100k.
-* Consortia applying must consist of at least 2 ORANGEHealth core partners (university and university of applied sciences) and a Dutch private party.
-* The duration of an Innovation Booster project is 12-24 months.
-* The deadline for the full application is September 3, 2025, 17:00 (by invitation only).
+Do you have an innovative idea in dentistry and oral care that could use support, in collaboration with a private partner? Then it is time to submit your grant application now. The ORANGEHealth PPP program is issuing the call for the "Appropriate, Person-Centered, Effective & Efficient Care" round here. This program offers financial support for collaborations with private partners. In 2026, approximately 7-8 ORANGEHealth PPP projects will be awarded, each with a PPP contribution of €100,000-250,000. Applicant consortia must consist of at least two members of the ORANGEHealth program group (university and university of applied sciences) and a Dutch private party. Of course, multiple other partners may also be involved. The project duration is 24-48 months. The deadline for the full application is September 2, 2026, at 5:00 PM (by invitation only).
 
 Please read the call text in the link below carefully. We are happy to think along with you. Do you have any questions or need advice? Contact us.
 

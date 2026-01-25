@@ -81,35 +81,35 @@ unsafe = true
         [[params.footer.links]]
             header = "Downloads"
         [[params.footer.links.links]]
-            title = "Calltekst-Innovation-Booster-2025"
-            url = "/downloads/HH-OH-Calltekst-Innovation-Booster-2025.docx"
+            title = "Calltekst 2026 ORANGEHealth PPS"
+            url = "/downloads/Calltekst2026ORANGEHealthPPS.docx"
         [[params.footer.links.links]]
-             title = "CA - clinical studies_PPP subsidy-Programma (202508)"
-             url = "/downloads/202508 - Consortium Agreement PPP Projects Template_Option right - clinical studies_PPP subsidy-Programma.docx"
-        [[params.footer.links.links]]
-             title = "CA - standard_PPP subsidy-Programma (202508)"
-             url = "/downloads/202508 - Consortium Agreement PPP Projects Template_Option right - standard_PPP subsidy-Programma.docx"
-        [[params.footer.links.links]]
-             title = "CA - clinical trials_PPP subsidy_Programs_1 (202508)"
-             url = "/downloads/202508 - Consortium Agreement PPP Projects Template - clinical trials_PPP subsidy_Programs_1.docx"
-        [[params.footer.links.links]]
-             title = "CA - standardstandard_PPP subsidy_Programs_1 (202508)"
-             url = "/downloads/202508 - Consortium Agreement PPP Projects Template - standard_PPP subsidy_Programs_1.docx"
-        [[params.footer.links.links]]
-             title = "Template Letter of Commitment 2025 – EN"
-             url = "/downloads/Template Letter of Commitment 2025 – Engels.docx"
-        [[params.footer.links.links]]
-             title = "Template Letter of Commitment 2025 – NL"
-             url = "/downloads/Template Letter of Commitment 2025 – Nederlands.docx"
-        [[params.footer.links.links]]
-             title = "Insert for article 8 Consortium Agreement - EN"
-             url = "/downloads/202501 - Insert for article 8 Consortium Agreement - EN.pdf"
-        [[params.footer.links.links]]
-             title = "Ondersteuning artikel 8 Consortium Agreement - NL"
-             url = "/downloads/202501 - Ondersteuning artikel 8 Consortium Agreement - NL.pdf"
-        [[params.footer.links.links]]
-             title = "TKI-LSH Standaard Budget Form - 2025"
-             url = "/downloads/TKI-LSH Standaard Budget Form - 2025 DEF.xlsx"
+             title = "preproposal ORANGEHealth PPS Call 2026"
+             url = "/downloads/preproposalORANGEHealthPPSCall2026"
+         [[params.footer.links.links]]
+              title = "Bijlagen bij aanvraagformulier"
+              url = "/downloads/Appendices application form_Programma.pdf"
+         [[params.footer.links.links]]
+              title = "Template Letter of Commitment 2026 – Nederlands"
+              url = "/downloads/Template-letter-of-commitment_2026-Nederlands_PPS subsidie_Programma.docx"
+         [[params.footer.links.links]]
+              title = "Template Letter of Commitment 2026 – Engels"
+              url = "/downloads/Template-letter-of-commitment_2026-English_PPP Subsidy_Program.docx"
+         [[params.footer.links.links]]
+              title = "Budgetformulier projecten 2026"
+              url = "/downloads/TKI-LSH Standaard Budget Form - 2026.xlsx"
+         [[params.footer.links.links]]
+              title = "Projectprofiel 2026"
+              url = "/downloads/Project profile TKI-LSH_PPP subsidy_2026.docx"
+         [[params.footer.links.links]]
+              title = "Datamanagementplan 2026"
+              url = "/downloads/TKI-LSH Datamanagementplan Formulier - PPS subsidie_Programma.docx"
+         [[params.footer.links.links]]
+              title = "Consortium Agreement Template – Programs - Standard"
+              url = "/downloads/Consortium Agreement PPP Programma - STANDARD.pdf"
+         [[params.footer.links.links]]
+              title = "Consortium Agreement Template – Programs – Clinical Studies"
+              url = "/downloads/Consortium Agreement PPP Programma - CLINICAL STUDIES.xlsx"
 #        [[params.footer.links.links]]
 #            title = "Duis neque nisi sed"
 #            url = "#"
