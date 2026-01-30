@@ -50,7 +50,7 @@
 #        [[params.footer.links.links]]
 #            title = "Sed et dapibus mattis"
 #            url = "#"
-        [[params.footer.links]]
+[[params.footer.links]]
             header = "Downloads"
         [[params.footer.links.links]]
             title = "Calltekst 2026 ORANGEHealth PPS"
@@ -78,10 +78,10 @@
               url = "/downloads/TKI-LSH Datamanagementplan Formulier - PPS subsidie_Programma.docx"
          [[params.footer.links.links]]
               title = "Consortium Agreement Template – Programs - Standard"
-              url = "/downloads/Consortium Agreement PPP Programma - STANDARD.pdf"
+              url = "/downloads/Consortium AgreementPPPProgramma-STANDARD.docx"
          [[params.footer.links.links]]
               title = "Consortium Agreement Template – Programs – Clinical Studies"
-              url = "/downloads/Consortium Agreement PPP Programma - CLINICAL STUDIES.xlsx"
+              url = "/downloads/Consortium AgreementPPPProgramma-CLINICALSTUDIES.docx"
 #        [[params.footer.links.links]]
 #            title = "Duis neque nisi sed"
 #            url = "#"
