@@ -57,7 +57,7 @@
             url = "/downloads/Calltekst2026ORANGEHealthPPS.docx"
         [[params.footer.links.links]]
              title = "preproposal ORANGEHealth PPS Call 2026"
-             url = "/downloads/preproposalORANGEHealthPPSCall2026"
+             url = "/downloads/preproposalORANGEHealthPPSCall2026.docx"
          [[params.footer.links.links]]
               title = "Bijlagen bij aanvraagformulier"
               url = "/downloads/Appendices application form_Programma.pdf"
