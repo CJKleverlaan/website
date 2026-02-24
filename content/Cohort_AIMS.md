@@ -25,7 +25,7 @@ title: "AIMS"
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-US style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
   class=normaltextrun><span lang=EN-US style='font-family:"Calibri",sans-serif;
   color:black'>Name of the cohort</span></span><span class=scxw202229923><span
   lang=EN-US style='font-family:"Calibri",sans-serif;color:black'>&nbsp;</span></span><span
@@ -48,7 +48,7 @@ title: "AIMS"
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-GB style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
   class=normaltextrun><span lang=EN-GB style='font-family:"Calibri",sans-serif'>Description
   / aim of the cohort</span></span><span class=eop><span lang=EN-US
   style='font-family:"Calibri",sans-serif'>&nbsp;</span></span></p>
@@ -76,7 +76,7 @@ title: "AIMS"
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-GB style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
   class=normaltextrun><span lang=EN-US style='font-family:"Calibri",sans-serif;
   color:black'>Description of the cohort population (age, specific
   characteristics, e.g. adults with cardiovascular disease, low SEP)</span></span><span
@@ -109,7 +109,7 @@ title: "AIMS"
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-US style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
   lang=EN-US style='font-family:"Calibri",sans-serif'>Location of the cohort</span></p>
   </td>
   <td width=288 valign=top style='width:215.7pt;border-top:none;border-left:
@@ -128,7 +128,7 @@ title: "AIMS"
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-US style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
   lang=EN-US style='font-family:"Calibri",sans-serif;color:black'>Institution</span></p>
   </td>
   <td width=288 valign=top style='width:215.7pt;border-top:none;border-left:
@@ -147,7 +147,7 @@ title: "AIMS"
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
-  lang=NL style='font-size:8.0pt;font-family:Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  lang=NL style='font-size:8.0pt;font-family:Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-family:"Calibri",sans-serif'>Cohort
   size (n)</span></p>
   </td>
@@ -167,7 +167,7 @@ title: "AIMS"
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-US style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
   lang=EN-US style='font-family:"Calibri",sans-serif;color:black'>Start year of
   the cohort</span></p>
   </td>
@@ -186,7 +186,7 @@ title: "AIMS"
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-GB style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><strong><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><strong><span
   lang=EN-US style='font-family:"Calibri",sans-serif;font-weight:normal'>Follow-up</span></strong><b><span
   lang=EN-US style='font-family:"Calibri",sans-serif'> </span></b><span
   lang=EN-US style='font-family:"Calibri",sans-serif'>(years and n)</span></p>
@@ -209,7 +209,7 @@ title: "AIMS"
   <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-US style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><strong><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><strong><span
   lang=EN-US style='font-family:"Calibri",sans-serif;color:black;font-weight:
   normal'>Types of variables</span></strong><span lang=EN-US style='font-family:
   "Calibri",sans-serif;color:black'> (e.g., health behaviours, psychosocial
@@ -217,7 +217,7 @@ title: "AIMS"
   <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-GB style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><strong><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><strong><span
   lang=EN-US style='font-family:"Calibri",sans-serif;color:black;font-weight:
   normal'>Measurement methods</span></strong><span lang=EN-US style='font-family:
   "Calibri",sans-serif;color:black'> (e.g., questionnaires, clinical
@@ -238,24 +238,24 @@ title: "AIMS"
   "Calibri",sans-serif;color:black'>Biological samples</span></b></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-18.0pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
   color:black'>Stool, tongue samples and dental plaque from the child</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-18.0pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
   color:black'>Stool, tongue samples, dental plaque, breast milk and vaginal
   smear from the mother</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-18.0pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
   color:black'>Optional stool, tongue and dental plaque from partner and
   siblings</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-18.0pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
   color:black'>Collected repeatedly from late pregnancy through early childhood</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:1.65pt'><span
@@ -264,38 +264,38 @@ title: "AIMS"
   "Calibri",sans-serif;color:black'>Questionnaire data</span></b></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-18.0pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
   color:black'>Lifestyle and health during pregnancy (mother)</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-18.0pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
   color:black'>Pregnancy and birth characteristics (mode of delivery,
   complications)</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-18.0pt'><span lang=NL style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=NL style='font-size:11.0pt;font-family:"Calibri",sans-serif;
   color:black'>Nutrition and feeding practices</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-18.0pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
   color:black'>Health and medical history (child and mother)</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-18.0pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
   color:black'>Medication use and antibiotic use (child and mother)</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-18.0pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
   color:black'>Household composition, living conditions and day care attendance</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-18.0pt'><span lang=NL style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=NL style='font-size:11.0pt;font-family:"Calibri",sans-serif;
   color:black'>Sociodemographic characteristics</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt'><span
@@ -308,7 +308,7 @@ title: "AIMS"
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-US style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
   lang=EN-US style='font-family:"Calibri",sans-serif'>Oral health variables
   (questionnaire/self-reported)</span></p>
   </td>
@@ -317,32 +317,32 @@ title: "AIMS"
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-15.8pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Oral
   health status of mother, child, partner and siblings</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-15.8pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Tooth
   eruption and number of teeth</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-15.8pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Tooth
   brushing practices and toothpaste use</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-15.8pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Use
   of dummy/pacifier and thumb or finger sucking</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-15.8pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Dental
   visits, cavities and gum problems</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt;
   text-indent:-15.8pt'><span lang=EN-US style='font-size:8.0pt;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Oral
   hygiene habits (fluoride use, mouth rinse, tongue scraper)</span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:19.65pt'><span
@@ -355,7 +355,7 @@ title: "AIMS"
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-US style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
   lang=EN-US style='font-family:"Calibri",sans-serif;color:black'>Oral health
   variables (clinically assessed)</span></p>
   </td>
@@ -368,20 +368,20 @@ title: "AIMS"
   <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:19.65pt;text-indent:-18.0pt;line-height:normal'><span
   lang=EN-GB style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-GB style='font-family:"Calibri",sans-serif;
   color:black'>Dental caries (ICDAS/DMFT/DMFS)</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:19.65pt;text-indent:-18.0pt;line-height:normal'><span
   lang=EN-GB style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-GB style='font-family:"Calibri",sans-serif;
   color:black'>Periodontitis (clinical attachment loss, pocket depth, bleeding
   on problem)</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:19.65pt;text-indent:-18.0pt;line-height:normal'><span
   lang=EN-GB style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-GB style='font-family:"Calibri",sans-serif;
   color:black'>Dental plaque (Quigley &amp; Hein)</span></p>
   <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
@@ -392,13 +392,13 @@ title: "AIMS"
   <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:0cm;
   margin-bottom:10.0pt;margin-left:19.65pt;text-indent:-18.0pt;line-height:
   115%'><span lang=EN-GB style='font-size:8.0pt;line-height:115%;font-family:
-  Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-GB style='font-family:"Calibri",sans-serif;
   color:black'>Dental caries (ICDAS/DMFT/DMFS) at 24 and 36 months</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:19.65pt;text-indent:-18.0pt;line-height:normal'><span
   lang=EN-GB style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-GB style='font-family:"Calibri",sans-serif;
   color:black'>Dental plaque (Quigley &amp; Hein) at 24 and 36 months</span></p>
   <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
@@ -412,7 +412,7 @@ title: "AIMS"
   <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-GB style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
   lang=EN-US style='font-family:"Calibri",sans-serif'>Oral health variables
   (biological, e.g., microbiome data, saliva)</span></p>
   </td>
@@ -422,7 +422,7 @@ title: "AIMS"
   <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:19.65pt;text-indent:-18.0pt;line-height:normal'><span
   lang=EN-GB style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-GB style='font-family:"Calibri",sans-serif'>Tongue
   and dental plaque samples at 6, 14, 24 and 36 months</span></p>
   </td>
@@ -433,7 +433,7 @@ title: "AIMS"
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-US style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
   lang=EN-US style='font-family:"Calibri",sans-serif;color:black'>Reference to
   design paper</span></p>
   </td>
@@ -453,7 +453,7 @@ title: "AIMS"
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-US style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
   lang=EN-US style='font-family:"Calibri",sans-serif'>Website</span></p>
   </td>
   <td width=288 valign=top style='width:215.7pt;border-top:none;border-left:
@@ -471,7 +471,7 @@ title: "AIMS"
   border-top:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
-  lang=NL style='font-size:8.0pt;font-family:Symbol'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  lang=NL style='font-size:8.0pt;font-family:Symbol'> <span style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span lang=EN-US style='font-family:"Calibri",sans-serif;
   color:black'>Procedure for requesting data</span></p>
   </td>
@@ -513,7 +513,7 @@ title: "AIMS"
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-GB style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><strong><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><strong><span
   lang=EN-US style='font-family:"Calibri",sans-serif;font-weight:normal'>Associated
   costs for data requests</span></strong><b><span lang=EN-US style='font-family:
   "Calibri",sans-serif'> </span></b><span lang=EN-US style='font-family:"Calibri",sans-serif'>(yes/no)</span></p>
@@ -532,7 +532,7 @@ title: "AIMS"
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.55pt;text-indent:-14.2pt;line-height:normal'><span
   lang=EN-US style='font-size:8.0pt;font-family:Symbol'> <span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+  style='font:7.0pt "Calibri"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
   lang=EN-US style='font-family:"Calibri",sans-serif;color:black'>Contact
   person </span></p>
   </td>

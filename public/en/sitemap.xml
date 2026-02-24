@@ -232,6 +232,8 @@
                 href="http://localhost:1313/cohort_aims/"
                 />
   </url><url>
+    <loc>http://localhost:1313/cohort/</loc>
+  </url><url>
     <loc>http://localhost:1313/cohort_generationr/</loc>
     <xhtml:link
                 rel="alternate"
