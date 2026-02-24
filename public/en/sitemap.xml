@@ -208,6 +208,42 @@
                 href="http://localhost:1313/posts/newsletter-2023-december/"
                 />
   </url><url>
+    <loc>http://localhost:1313/cohort_abcd/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/cohort_abcd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cohort_abcd/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/cohort_aims/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/cohort_aims/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cohort_aims/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/cohort_generationr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/cohort_generationr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cohort_generationr/"
+                />
+  </url><url>
     <loc>http://localhost:1313/cohort_globe/</loc>
     <xhtml:link
                 rel="alternate"
@@ -218,6 +254,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/cohort_globe/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/cohort_helius/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/cohort_helius/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cohort_helius/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/cohort_hoornstudy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/cohort_hoornstudy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cohort_hoornstudy/"
                 />
   </url><url>
     <loc>http://localhost:1313/wp1/</loc>
@@ -314,6 +374,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/cohort_themaastrichtstudy/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/cohort_therotterdamstudy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/cohort_therotterdamstudy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cohort_therotterdamstudy/"
                 />
   </url><url>
     <loc>http://localhost:1313/wp2/</loc>

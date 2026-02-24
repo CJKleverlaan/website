@@ -23,27 +23,57 @@
     pageRef = 'OralCohort-general'
 [[main]]
     parent = "Oral Cohorts"
-    name = "GLOBE"
+    name = "The Rotterdam Study"
     weight = 71
+    pageRef = 'Cohort_TheRotterdamStudy'
+[[main]]
+    parent = "Oral Cohorts"
+    name = "HELIUS"
+    weight = 72
+    pageRef = 'Cohort_HELIUS'
+[[main]]
+    parent = "Oral Cohorts"
+    name = "The Hoorn Study"
+    weight = 73
+    pageRef = 'Cohort_HoornStudy'
+[[main]]
+    parent = "Oral Cohorts"
+    name = "GLOBE"
+    weight = 74
     pageRef = 'Cohort_GLOBE'
 [[main]]
     parent = "Oral Cohorts"
     name = "LASA"
-    weight = 72
+    weight = 75
     pageRef = 'Cohort_LASA'
 [[main]]
     parent = "Oral Cohorts"
     name = "Lifelines"
-    weight = 73
+    weight = 76
     pageRef = 'Cohort_Lifelines'
 [[main]]
     parent = "Oral Cohorts"
     name = "RODAM"
-    weight = 74
+    weight = 77
     pageRef = 'Cohort_RODAM'
 [[main]]
     parent = "Oral Cohorts"
     name = "Maastricht Study"
-    weight = 75
+    weight = 78
     pageRef = 'Cohort_TheMaastrichtStudy'
+[[main]]
+    parent = "Oral Cohorts"
+    name = "Generation R"
+    weight = 79
+    pageRef = 'Cohort_GenerationR'
+[[main]]
+    parent = "Oral Cohorts"
+    name = "AIMS"
+    weight = 80
+    pageRef = 'Cohort_AIMS'
+[[main]]
+    parent = "Oral Cohorts"
+    name = "ABCD"
+    weight = 81
+    pageRef = 'Cohort_ABCD'
 
