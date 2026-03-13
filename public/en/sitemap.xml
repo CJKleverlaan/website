@@ -221,6 +221,8 @@
                 href="http://localhost:1313/posts/newsletter-2023-december/"
                 />
   </url><url>
+    <loc>http://localhost:1313/acta-dental-quick-screening-odontogram/</loc>
+  </url><url>
     <loc>http://localhost:1313/cohort_abcd/</loc>
     <xhtml:link
                 rel="alternate"
