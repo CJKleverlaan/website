@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -76,6 +76,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/contact/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/dds-2027/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/posts/dds-2027/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/dds-2027/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/leidraad-interprofessionele-mondzorg/</loc>
@@ -219,19 +232,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/posts/newsletter-2023-december/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/posts/dds-2027/</loc>
-    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/nl/posts/dds-2027/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/dds-2027/"
                 />
   </url><url>
     <loc>http://localhost:1313/cohort_abcd/</loc>
